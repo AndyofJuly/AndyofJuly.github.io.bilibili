@@ -2,7 +2,7 @@
 
 ## 首页
 
-https://yyeexin.github.io/bilibili-html-demo/
+https://andyofjuly.github.io/
 
 ## 可能需要使用的资源 CDN
 
